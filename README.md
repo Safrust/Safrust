@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Safrust?tab=repositories](https://github.com/Safrust?tab=repositories)
 
-- 💬 Ask me about **Mobile Legend**
-
 - 📫 How to reach me **https://www.instagram.com/safrust**
 
-- ⚡ Fun fact **I enjoy playing Mobile Legend, Genshin Impact, Honkai Star Rail, and Clash of Clans. I love eating Indomie fried noodles.**
+- ⚡ Fun fact **I love eating Indomie fried noodles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
