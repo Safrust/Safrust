@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **https://www.instagram.com/safrust**
 
-- ⚡ Fun fact **I love eating Indomie fried noodles.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/safrust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safrust" height="30" width="40" /></a>
