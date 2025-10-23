@@ -250,15 +250,11 @@ UI/UX Design       ███████████████░░░░░�
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Safrust/Safrust/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Safrust/Safrust/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Safrust/Safrust/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/Safrust/Safrust/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
