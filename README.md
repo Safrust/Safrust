@@ -1,14 +1,13 @@
 ﻿<div align="center">
 
 <!-- Banner animasi yang eye-catching -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Syafiq%20Rustiawanto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%203D%20Artist%20|%20Creative%20Coder&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Syafiq%20Rustiawanto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%203D%20Artist%20%7C%20Creative%20Coder&descAlignY=51&descAlign=50" width="100%"/>
+
+<br/>
 
 <!-- Typing SVG yang lebih menarik -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&repeat=true&width=700&height=100&lines=👨‍💻+Full+Stack+Developer;🎨+3D+Artist+%26+Designer;🚀+Building+Amazing+Things;☕+Powered+by+Coffee+%26+Code;🌏+Based+in+Indonesia" alt="Typing SVG" />
-  </a>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Full+Stack+Developer;3D+Artist+and+Designer;Building+Amazing+Things;Coffee+Powered+Coder;Based+in+Indonesia)](https://git.io/typing-svg)
 
 <!-- Badges dengan style yang lebih modern -->
 <p align="center">
